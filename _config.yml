@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunke Zhang"
+title                    : "张云柯 Yunke Zhang"
 title_separator          : "-"
 name                     : &name "Yunke Zhang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "张云柯 Yunke Zhang"
   avatar           : "profile.png"
-  bio              : "PhD Student at Deptartment of Electronic Engineering, Tsinghua University"
+  bio              : "Ph.D. Student @ Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
