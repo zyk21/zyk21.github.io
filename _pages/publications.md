@@ -8,6 +8,8 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wnaYAAAAJ&hl=en).
+
 2022
 ------
 
