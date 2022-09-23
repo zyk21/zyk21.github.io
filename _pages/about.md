@@ -35,9 +35,8 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
  
 # Selected Honors and Awards
 
-- **Outstanding Graduate (Top 2\%)**, Tsinghua University, 2021 <br>
-- **Outstanding Graduate**, Beijing, China, 2021 <br>
-- **Academic Excellence Award**, Department of Electronic Engineering, Tsinghua University, 2020 <br>
-- **National Undergraduate Student Scholarship**, China, 2019 <br>
-- **Overall Excellence Award**, Department of Electronic Engineering, Tsinghua University, 2019 <br>
-- **Academic Excellence Award**, Department of Electronic Engineering, Tsinghua University, 2018 <br>
+- **Tsinghua Outstanding Graduate (Top 2%)**, 2021 <br>
+- **Beijing Outstanding Graduate**, 2021 <br>
+- **Tsinghua Academic Excellence Award**, 2020, 2018 <br>
+- **China National Undergraduate Student Scholarship**, 2019 <br>
+- **Tsinghua Comprehensive Excellence Award**, 2019 <br>
