@@ -29,6 +29,5 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 - **Yunqi Academy of of Engineering**, Hangzhou, China, *Jul. 2022 - Sep. 2022* <br>
   *Research Assistant*, with Prof. [Jessie Zhenhui Li](https://faculty.ist.psu.edu/jessieli/Site/index.html) in CityBrain.org.
 
-- **Meituan-Dianping Inc.**, Beijing, China *Jul. 2020 - Oct. 2020*
-
+- **Meituan-Dianping Inc.**, Beijing, China *Jul. 2020 - Oct. 2020* <br>
   *Research Intern*, in Knowledge Graph Team.
