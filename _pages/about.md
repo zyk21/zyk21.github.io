@@ -22,7 +22,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 - **University of Texas**, Austin, Texas, United States, *Jan. 2020 - May 2020* <br>
   *Exchange Student* in [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/)
 
-# Research Experience
+<!-- # Research Experience
 - **Tsinghua University**, Beijing, China, *Mar. 2019 - Present* <br>
   *Ph. D. Student & Research Assistant*, with Prof. Yong Li in Future Intelligence Lab.
 
@@ -31,3 +31,13 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 
 - **Meituan-Dianping Inc.**, Beijing, China *Jul. 2020 - Oct. 2020* <br>
   *Research Intern*, in Knowledge Graph Team.
+ -->
+ 
+ # Selected Honors and Awards
+
+· **Outstanding Graduate (Top 2\%)**, Tsinghua University, 2021
+· **Outstanding Graduate**, Beijing, China, 2021
+**Academic Excellence Award**, Department of Electronic Engineering, Tsinghua University, 2020
+**National Undergraduate Student Scholarship**, China, 2019
+**Overall Excellence Award**, Department of Electronic Engineering, Tsinghua University, 2019
+**Academic Excellence Award**, Department of Electronic Engineering, Tsinghua University, 2018
