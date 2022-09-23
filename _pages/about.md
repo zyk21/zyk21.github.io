@@ -33,7 +33,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
   *Research Intern*, in Knowledge Graph Team.
  -->
  
- # Selected Honors and Awards
+# Selected Honors and Awards
 
 - **Outstanding Graduate (Top 2\%)**, Tsinghua University, 2021 <br>
 - **Outstanding Graduate**, Beijing, China, 2021 <br>
