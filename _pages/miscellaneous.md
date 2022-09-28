@@ -5,4 +5,9 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-HAHAHA
+Experience
+------
+I grew up in Beijing. Before going to Tsinghua, I spent 7 years in the first class of Early Development Program (EDP) at The High School Affiliated to Renmin University of China ([RDFZ](https://www.rdfz.cn/en/)). 
+
+Speedcubing
+------
