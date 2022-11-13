@@ -13,6 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2022
 ------
+- Zhilong Chen, Xiaochong Lan, Jinghua Piao, **Yunke Zhang**, and Yong Li. **A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China.** Proceedings of the ACM on Human-Computer Interaction, Volume 6, Issue CSCW2 (2022): 1-24. [Link](https://doi.org/10.1145/3555585)
 
 2021
 ------
