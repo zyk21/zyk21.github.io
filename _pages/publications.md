@@ -11,6 +11,10 @@ author_profile: true
 
 Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wnaYAAAAJ&hl=en).
 
+2023
+------
+- **Yunke Zhang**, Tong Li, Yuan Yuan, Fengli Xu, Fan Yang, Funing Sun, and Yong Li. **Demand-Driven Urban Facility Visit Prediction.** ACM Transactions on Intelligent Systems and Technology, Just Accepted. 
+
 2022
 ------
 - Zhilong Chen, Xiaochong Lan, Jinghua Piao, **Yunke Zhang**, and Yong Li. **A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China.** Proceedings of the ACM on Human-Computer Interaction, Volume 6, Issue CSCW2 (2022): 1-24. [Link](https://doi.org/10.1145/3555585)
