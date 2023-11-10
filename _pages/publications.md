@@ -13,7 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2023
 ------
-- **Yunke Zhang**, Tong Li, Yuan Yuan, Fengli Xu, Fan Yang, Funing Sun, and Yong Li. **Demand-Driven Urban Facility Visit Prediction.** ACM Transactions on Intelligent Systems and Technology, Just Accepted. 
+- **Yunke Zhang**, Tong Li, Yuan Yuan, Fengli Xu, Fan Yang, Funing Sun, and Yong Li. **Demand-Driven Urban Facility Visit Prediction.** ACM Transactions on Intelligent Systems and Technology, Just Accepted. [Link](https://dl.acm.org/doi/10.1145/3625233)
 
 2022
 ------
