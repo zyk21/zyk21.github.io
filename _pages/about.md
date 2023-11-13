@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the [Future Intelligence Lab](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor degree from the Department of Electronic Engineering, Tsinghua University in 2021.
+I am a third-year PhD student in the [Future Intelligence Lab](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
 
-My **research interests** lie in *Urban Science, Computational Social Science, and Data Science*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I am paying attention to connecting urban segregation and inequalities in public transportation planning.
+My **research interests** lie in *Urban Science, Computational Social Science, and Data Science*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I have been paying attention to connecting urban segregation and inequalities in public transportation planning.
 
 # Education
 - **Tsinghua University**, Beijing, China, *Sep. 2021 - Present* <br>
@@ -29,7 +29,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 - **Yunqi Academy of of Engineering**, Hangzhou, China, *Jul. 2022 - Sep. 2022* <br>
   *Research Assistant*, with Prof. [Jessie Zhenhui Li](https://faculty.ist.psu.edu/jessieli/Site/index.html) in CityBrain.org.
 
-- **Meituan-Dianping Inc.**, Beijing, China *Jul. 2020 - Oct. 2020* <br>
+- **Meituan-Dianping Inc.**, Beijing, China *Jul. 2020 - Jul. 2023* <br>
   *Research Intern*, in Knowledge Graph Team.
  -->
  
