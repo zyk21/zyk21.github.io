@@ -13,6 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2023
 ------
+- **Yunke Zhang**, Fengli Xu, Marta Gonzalez, and Yong Li. ***Quantifying systemic racial accessibility inequality in urban transit network.*** ResearchSquare preprint. [Link](https://www.researchsquare.com/article/rs-3485896/v1) [Code](https://github.com/zyk21/TransitIneq)
 - **Yunke Zhang**, Tong Li, Yuan Yuan, Fengli Xu, Fan Yang, Funing Sun, and Yong Li. ***Demand-Driven Urban Facility Visit Prediction.*** ACM Transactions on Intelligent Systems and Technology, Just Accepted. [Link](https://dl.acm.org/doi/10.1145/3625233)
 - Yanxin Xi, Yu Liu, Tong Li, Jintao Ding, **Yunke Zhang**, Sasu Tarkoma, Yong Li, Pan Hui. ***A Satellite Imagery Dataset for Long-Term Sustainable Development in United States Cities.*** arxiv preprint. [Link](https://arxiv.org/abs/2308.00465)
 
