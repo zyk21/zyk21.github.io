@@ -11,6 +11,10 @@ author_profile: true
 
 Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wnaYAAAAJ&hl=en).
 
+2024
+------
+- **Yunke Zhang**, Fengli Xu, Lin Chen, Yuan Yuan, James Evans, Luis Bettencourt, and Yong Li. ***Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities.*** Humanities and Social Sciences Communications, 11, Article number: 87. [Link](https://www.nature.com/articles/s41599-023-02570-5) [Code](https://github.com/tsinghua-fib-lab/CRANE)
+
 2023
 ------
 - **Yunke Zhang**, Fengli Xu, Marta Gonzalez, and Yong Li. ***Quantifying systemic racial accessibility inequality in urban transit network.*** ResearchSquare preprint. [Link](https://www.researchsquare.com/article/rs-3485896/v1) [Code](https://github.com/zyk21/TransitIneq)
