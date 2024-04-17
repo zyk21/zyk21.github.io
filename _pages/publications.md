@@ -14,17 +14,17 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 2024
 ------
 - Jingtao Ding, Chang Liu, Yu Zheng, **Yunke Zhang**, Zihan Yu, Ruikun Li, Hongyi Chen, Jinghua Piao, Huandong Wang, Jiazhen Liu, and Yong Li. ***Artificial Intelligence for Complex Network: Potential, Methodology and Application.*** arXiv preprint arXiv:2402.16887. [Link](https://arxiv.org/abs/2402.16887)
-- **Yunke Zhang**, Tong Li, Yuan Yuan, Fengli Xu, Fan Yang, Funing Sun, and Yong Li. ***Demand-Driven Urban Facility Visit Prediction.*** ACM Transactions on Intelligent Systems and Technology, 2024, 15.2: 1-24. [Link](https://dl.acm.org/doi/10.1145/3625233)
-- **Yunke Zhang**, Fengli Xu, Lin Chen, Yuan Yuan, James Evans, Luis Bettencourt, and Yong Li. ***Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities.*** Humanities and Social Sciences Communications, 11, Article number: 87. [Link](https://www.nature.com/articles/s41599-023-02570-5) [Code](https://github.com/tsinghua-fib-lab/CRANE)
+- **Yunke Zhang**, Tong Li, Yuan Yuan, Fengli Xu, Fan Yang, Funing Sun, and Yong Li. ***Demand-Driven Urban Facility Visit Prediction.*** ACM Transactions on Intelligent Systems and Technology 15.2 (2024): 1-24. [Link](https://dl.acm.org/doi/10.1145/3625233)
+- **Yunke Zhang**, Fengli Xu, Lin Chen, Yuan Yuan, James Evans, Luis Bettencourt, and Yong Li. ***Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities.*** Humanities and Social Sciences Communications 11.1 (2024): 1-12. [Link](https://www.nature.com/articles/s41599-023-02570-5) [Code](https://github.com/tsinghua-fib-lab/CRANE)
 
 2023
 ------
 - **Yunke Zhang**, Fengli Xu, Marta Gonzalez, and Yong Li. ***Quantifying systemic racial accessibility inequality in urban transit network.*** ResearchSquare preprint. [Link](https://www.researchsquare.com/article/rs-3485896/v1) [Code](https://github.com/zyk21/TransitIneq)
-- Yanxin Xi, Yu Liu, Tong Li, Jintao Ding, **Yunke Zhang**, Sasu Tarkoma, Yong Li, Pan Hui. ***A Satellite Imagery Dataset for Long-Term Sustainable Development in United States Cities.*** Scientific data, 2023, 10: 866. [Link](https://www.nature.com/articles/s41597-023-02576-3)
+- Yanxin Xi, Yu Liu, Tong Li, Jintao Ding, **Yunke Zhang**, Sasu Tarkoma, Yong Li, Pan Hui. ***A Satellite Imagery Dataset for Long-Term Sustainable Development in United States Cities.*** Scientific data 10.1 (2023): 866. [Link](https://www.nature.com/articles/s41597-023-02576-3)
 
 2022
 ------
-- Zhilong Chen, Xiaochong Lan, Jinghua Piao, **Yunke Zhang**, and Yong Li. ***A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China.*** Proceedings of the ACM on Human-Computer Interaction, Volume 6, Issue CSCW2 (2022): 1-24. [Link](https://doi.org/10.1145/3555585)
+- Zhilong Chen, Xiaochong Lan, Jinghua Piao, **Yunke Zhang**, and Yong Li. ***A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China.*** Proceedings of the ACM on Human-Computer Interaction 6.CSCW2 (2022): 1-24. [Link](https://doi.org/10.1145/3555585)
 
 2021
 ------
