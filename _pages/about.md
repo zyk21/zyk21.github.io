@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the [Future Intelligence Lab](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
+I am a third-year PhD candidate in the [Future Intelligence Lab](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
 
 My **research interests** lie in *Urban Science, Computational Social Science, and Data Science*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I have been paying attention to connecting urban segregation and inequalities in public transportation planning.
 
