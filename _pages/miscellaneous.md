@@ -9,7 +9,7 @@ Before going to Tsinghua, I spent 7 years in the first class of the Early Develo
 
 I retired from soccer in 2012 after I scored an own goal in the most important match. As the starting center, I won the runner-up in the RDFZ basketball league with the EDP basketball team in 2014 (scoring about 2 points in each game). At Tsinghua, I scored a brilliant lob shot from the midfield against EE75 in 2017 but our EE73 soccer team was too weak. On the basketball court, the EE73 team never made it to the final match of INFINITY CUP (basketball league of EE department) because of never-ending injuries. I also joined the volleyball team of the EE department in 2022 as a middle blocker. Our team won the championship of John Ma Cup in 2024! Check out the video of the final match [here](https://www.bilibili.com/video/BV1CT421y7QS).
 
-I also enjoy learning languages and Chinese dialects but am not good at speaking them. Recently I have been learning Cantonese and French. I can speak some Japanese, Korean, and very little Russian. I enjoy watching Riichi Mahjong matches.
+I also enjoy learning languages and Chinese dialects but am not good at speaking them. Recently I have been learning Cantonese and French. I can speak some Japanese (JLPT-N2), Korean (TOPIK 4), and very little Russian. I enjoy watching Riichi Mahjong matches.
 
 Speedcubing
 ------
