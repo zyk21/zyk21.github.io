@@ -41,3 +41,9 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 - **Tsinghua Academic Excellence Award**, 2020, 2018 <br>
 - **China National Undergraduate Student Scholarship**, 2019 <br>
 - **Tsinghua Comprehensive Excellence Award**, 2019 <br>
+
+# Professional Activities
+
+- Program Committee Member for [FairComp@Ubicomp 2023](https://faircomp-workshop.github.io/2023/committee.html).
+- Journal Reviewer for PLOS complex systems.
+- Conference Reviewer for WWW, IC2S2, UbiComp.
