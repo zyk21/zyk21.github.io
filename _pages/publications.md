@@ -13,6 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2024
 ------
+- Jingtao Ding, **Yunke Zhang**, *et al*. ***Understanding World or Predicting Future? A Comprehensive Survey of World Models.*** arXiv preprint.
 - **Yunke Zhang**, Yiran Fan, Peijie Liu, Fengli Xu, and Yong Li. ***Cyber Food Swamps: Investigating the Impacts of Online-to-Offline Food Delivery Platforms on Healthy Food Choices.*** arXiv preprint arXiv:2409.16601. [Link](https://arxiv.org/abs/2409.16601)
 - **Yunke Zhang**, Daoping Wang, Yu Liu, Pan He, and Yong Li. ***Urban residents adapt to extreme heat through food delivery service in China.*** ResearchSquare preprint. [Link](https://www.researchsquare.com/article/rs-4517567/v1) [Code](https://doi.org/10.5281/zenodo.8422141)
 - Jingtao Ding, Chang Liu, Yu Zheng, **Yunke Zhang**, Zihan Yu, Ruikun Li, Hongyi Chen, Jinghua Piao, Huandong Wang, Jiazhen Liu, and Yong Li. ***Artificial Intelligence for Complex Network: Potential, Methodology and Application.*** arXiv preprint arXiv:2402.16887. [Link](https://arxiv.org/abs/2402.16887)
