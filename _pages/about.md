@@ -36,7 +36,6 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 # Selected Honors and Awards
 
 - **Tsinghua Comprehensive Excellence Award**, 2024 <br>
-- **Poster Runner-Up Award in The Second Research Summit of Urban Science and Human Dynamics**, 2024 <br>
 - **Tsinghua Outstanding Graduate (Top 2%)**, 2021 <br>
 - **Beijing Outstanding Graduate**, 2021 <br>
 - **Tsinghua Academic Excellence Award**, 2020, 2018 <br>
