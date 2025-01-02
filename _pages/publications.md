@@ -13,7 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2025
 ------
-- **Yunke Zhang**, Daoping Wang, Yu Liu, Kerui Du, Peng Lu, Pan He, and Yong Li. ***Urban food delivery services as extreme heat adaptation.*** Nature Cities (2025). [Link](https://www.nature.com/articles/s44284-024-00172-z) [Code](https://doi.org/10.5281/zenodo.8422141)
+- **Yunke Zhang**, Daoping Wang, Yu Liu, Kerui Du, Peng Lu, Pan He, and Yong Li. ***Urban food delivery services as extreme heat adaptation.*** Nature Cities (2025). [Link](https://www.nature.com/articles/s44284-024-00172-z) [Code](https://doi.org/10.5281/zenodo.8422141) [Research Briefing](https://www.nature.com/articles/s44284-024-00193-8)
 
 2024
 ------
