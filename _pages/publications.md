@@ -13,6 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2025
 ------
+- Fengli Xu, Qianyue Hao, Zefang Zong, Jingwei Wang, **Yunke Zhang**, Jingyi Wang, Xiaochong Lan, Jiahui Gong, Tianjian Ouyang, Fanjin Meng, Chenyang Shao, Yuwei Yan, Qinglong Yang, Yiwen Song, Sijian Ren, Xinyuan Hu, Yu Li, Jie Feng, Chen Gao, and Yong Li. ***Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models.***  arXiv preprint arXiv:2501.09686. [Link](https://arxiv.org/abs/2501.09686)
 - **Yunke Zhang**, Yuming Lin, Guanjie Zheng, Yu Liu, Nicholas Sukiennik, Fengli Xu, Yongjun Xu, Feng Lu, Qi Wang, Yuan Lai, Li Tian, Nan Li, Dongping Fang, Fei Wang, Tao Zhou, Yong Li, Yu Zheng, Zhiqiang Wu, and Huadong Guo. ***MetaCity: Data-driven sustainable development of complex cities.*** The Innovation 6.2 (2025). [Link](https://doi.org/10.1016/j.xinn.2024.100775)
 - **Yunke Zhang**, Daoping Wang, Yu Liu, Kerui Du, Peng Lu, Pan He, and Yong Li. ***Urban food delivery services as extreme heat adaptation.*** Nature Cities (2025). [Link](https://www.nature.com/articles/s44284-024-00172-z) [Code](https://doi.org/10.5281/zenodo.8422141) [Research Briefing](https://www.nature.com/articles/s44284-024-00193-8)
 
