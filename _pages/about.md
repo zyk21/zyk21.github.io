@@ -45,5 +45,5 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 # Professional Activities
 
 - Program Committee Member for [FairComp@Ubicomp 2023](https://faircomp-workshop.github.io/2023/committee.html).
-- Journal Reviewer for PLOS complex systems.
+- Journal Reviewer for PLOS complex systems, EPJ Data Science.
 - Conference Reviewer for WWW, IC2S2, UbiComp.
