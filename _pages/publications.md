@@ -13,7 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2025
 ------
-- **Yunke Zhang**, Ruolong Ma, Xin Zhang, and Yong Li. ***Perceiving Urban Inequality from Imagery Using Visual Language Models with Chain-of-Thought Reasoning.*** To Appear in The ACM Web Conference 2025.
+- **Yunke Zhang**, Ruolong Ma, Xin Zhang, and Yong Li. ***Perceiving Urban Inequality from Imagery Using Visual Language Models with Chain-of-Thought Reasoning.*** To appear in The ACM Web Conference 2025.
 - **Yunke Zhang**, Yuming Lin, Guanjie Zheng, Yu Liu, Nicholas Sukiennik, Fengli Xu, Yongjun Xu, Feng Lu, Qi Wang, Yuan Lai, Li Tian, Nan Li, Dongping Fang, Fei Wang, Tao Zhou, Yong Li, Yu Zheng, Zhiqiang Wu, and Huadong Guo. ***MetaCity: Data-driven sustainable development of complex cities.*** The Innovation 6.2 (2025). [Link](https://doi.org/10.1016/j.xinn.2024.100775)
 - **Yunke Zhang**, Daoping Wang, Yu Liu, Kerui Du, Peng Lu, Pan He, and Yong Li. ***Urban food delivery services as extreme heat adaptation.*** Nature Cities (2025). [Link](https://www.nature.com/articles/s44284-024-00172-z) [Code](https://doi.org/10.5281/zenodo.8422141) [Research Briefing](https://www.nature.com/articles/s44284-024-00193-8)
 
