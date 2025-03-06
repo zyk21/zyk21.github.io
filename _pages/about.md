@@ -32,6 +32,10 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 - **Meituan-Dianping Inc.**, Beijing, China *Jul. 2020 - Jul. 2023* <br>
   *Research Intern*, in Knowledge Graph Team.
  -->
+
+# News
+[_Mar. 2025_] [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected for **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of Nature Cities!
+
  
 # Selected Honors and Awards
 
