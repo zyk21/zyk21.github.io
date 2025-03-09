@@ -34,20 +34,14 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
  -->
 
 # News
-**[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!
-
-**[Jan. 2025]** One paper on perceiving urban inequality with vision language model accepted by _The Web Conference 2025_.
-
-**[Jan. 2025]** [A review article](https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00213-3) on data-driven sustainable development of complex cities is published in _The Innovation_.
-
-**[Jan. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) on urban residents' adaptive behavior to heat is published in _Nature Cities_. A [research briefing](https://www.nature.com/articles/s44284-024-00193-8) is also available.
-
-**[Nov. 2024]** [A survey](https://arxiv.org/abs/2411.14499) on world model is released.
-
-**[Oct. 2024]** [A preprint](https://arxiv.org/abs/2409.16601) on quantifying the health impact of food delivery services is released.
-
-**[Jan. 2024]** [Our paper](https://www.nature.com/articles/s41599-023-02570-5) on revealing mobility inequality with representation learning is published in _Humanities and social sciences communications_.
-
+**[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!  
+**[Jan. 2025]** One paper on perceiving urban inequality with vision language model accepted by _The Web Conference 2025_.  
+**[Jan. 2025]** [A review article](https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00213-3) on data-driven sustainable development of complex cities is published in _The Innovation_.  
+**[Jan. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) on urban residents' adaptive behavior to heat is published in _Nature Cities_. A [research briefing](https://www.nature.com/articles/s44284-024-00193-8) is also available.  
+**[Jan. 2025]** [A survey](https://arxiv.org/abs/2501.09686) on large reasoning model is released.  
+**[Nov. 2024]** [A survey](https://arxiv.org/abs/2411.14499) on world model is released.  
+**[Oct. 2024]** [A preprint](https://arxiv.org/abs/2409.16601) on quantifying the health impact of food delivery services is released.  
+**[Jan. 2024]** [Our paper](https://www.nature.com/articles/s41599-023-02570-5) on revealing mobility inequality with representation learning is published in _Humanities and social sciences communications_.  
  
 # Selected Honors and Awards
 
