@@ -14,7 +14,7 @@ I also enjoy learning languages and Chinese dialects but am not good at speaking
 Speedcubing
 ------
 
-I started my speedcubing career in the spring of 2014 when I competed in the World Cube Association (WCA) Beijing Spring 2014. Here is my [WCA Profile](https://www.worldcubeassociation.org/persons/2014ZHAN11). Winning 13 golds, 15 silvers, and 24 bronze medals in 40 WCA competitions in China and the U.S., I enjoy the amazing journey as a speedcuber.
+I started my speedcubing career in the spring of 2014 when I competed in the World Cube Association (WCA) Beijing Spring 2014. Here is my [WCA Profile](https://www.worldcubeassociation.org/persons/2014ZHAN11). Winning 13 golds, 15 silvers, and 24 bronze medals in 43 WCA competitions in China and the U.S., I enjoy the amazing journey as a speedcuber.
 
 In the second year of my speedcubing career, I broke the Chinese National Record of **Fewest Moves** events with a 23 moves single and tied the average record of 28.33 moves at Beijing Long Events Open 2015 held at my high school RDFZ. The reconstruction of my solutions can be found in this [post](http://bbs.mf8-china.com/forum.php?mod=viewthread&tid=105238&extra=page%3D2) at mf8-china.
 
