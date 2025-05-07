@@ -14,9 +14,9 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 2025
 ------
 - **Yunke Zhang**, Yiran Fan, Peijie Liu, Fengli Xu, and Yong Li. ***Cyber Food Swamps: Investigating the Impacts of Online-to-Offline Food Delivery Platforms on Healthy Food Choices.*** To appear in International AAAI Conference on Web and Social Media (ICWSM 2025). [Link](https://arxiv.org/abs/2409.16601)
-- **Yunke Zhang**, Ruolong Ma, Xin Zhang, and Yong Li. ***Perceiving Urban Inequality from Imagery Using Visual Language Models with Chain-of-Thought Reasoning.*** The ACM Web Conference (2025): 5342–5351. [Link](https://dl.acm.org/doi/10.1145/3696410.3714536)
+- **Yunke Zhang**, Ruolong Ma, Xin Zhang, and Yong Li. ***Perceiving Urban Inequality from Imagery Using Visual Language Models with Chain-of-Thought Reasoning.*** The ACM Web Conference (2025): 5342–5351. [Link](https://dl.acm.org/doi/10.1145/3696410.3714536) [Code](https://github.com/tsinghua-fib-lab/UI-CoT)
 - **Yunke Zhang**, Daoping Wang, Yu Liu, Kerui Du, Peng Lu, Pan He, and Yong Li. ***Urban food delivery services as extreme heat adaptation.*** Nature Cities 2.2 (2025): 170–179. [Link](https://www.nature.com/articles/s44284-024-00172-z) [Code](https://doi.org/10.5281/zenodo.8422141) [Research Briefing](https://www.nature.com/articles/s44284-024-00193-8) [**Cover Article**](https://www.nature.com/natcities/volumes/2/issues/2)
-- **Yunke Zhang**, Yuming Lin, Guanjie Zheng, Yu Liu, Nicholas Sukiennik, Fengli Xu, Yongjun Xu, Feng Lu, Qi Wang, Yuan Lai, Li Tian, Nan Li, Dongping Fang, Fei Wang, Tao Zhou, Yong Li, Yu Zheng, Zhiqiang Wu, and Huadong Guo. ***MetaCity: Data-driven sustainable development of complex cities.*** The Innovation 6.2 (2025). [Link](https://doi.org/10.1016/j.xinn.2024.100775)
+- **Yunke Zhang**, Yuming Lin, Guanjie Zheng, Yu Liu, Nicholas Sukiennik, Fengli Xu, Yongjun Xu, Feng Lu, Qi Wang, Yuan Lai, Li Tian, Nan Li, Dongping Fang, Fei Wang, Tao Zhou, Yong Li, Yu Zheng, Zhiqiang Wu, and Huadong Guo. ***MetaCity: Data-driven sustainable development of complex cities.*** The Innovation 6.2 (2025). [Link](https://doi.org/10.1016/j.xinn.2024.100775) [中文解读](https://mp.weixin.qq.com/s/WibwflJUyoKOTun4x0_axw)
 
 
 2024
@@ -34,7 +34,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2021
 ------
-- **Yunke Zhang**, Fengli Xu, Tong Xia, and Yong Li. ***Quantifying the Causal Effect of Individual Mobility on Health Status in Urban Space.*** Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 5, no. 4 (2021): 1-30. [Link](https://doi.org/10.1145/3494990)
+- **Yunke Zhang**, Fengli Xu, Tong Xia, and Yong Li. ***Quantifying the Causal Effect of Individual Mobility on Health Status in Urban Space.*** Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 5, no. 4 (2021): 1-30. [Link](https://doi.org/10.1145/3494990) [中文解读](https://mp.weixin.qq.com/s/7KWLkoVT8J5lfmhC5uPq_A)
 - **Yunke Zhang**, Fengli Xu, Tong Li, Vassilis Kostakos, Pan Hui, and Yong Li. ***Passive Health Monitoring Using Large Scale Mobility Data.*** Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 5, no. 1 (2021): 1-23. [Link](https://doi.org/10.1145/3448078) [Video](https://youtu.be/aYCS2kDt_6A)
 
 Preprints
