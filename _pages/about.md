@@ -34,7 +34,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
  -->
 
 # News
-**[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!
+**[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!  
 **[Jun. 2024]** [Our survey](https://dl.acm.org/doi/abs/10.1145/3746449) on world model is accepted by _ACM Computing Survey_.  
 **[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.13777) on phtysics-informed AI for complex urban systems is released.  
 **[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.06366) on AI agentbehavioral science is released.  
