@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate in the [Future Intelligence Lab](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
+I am a fifth-year PhD candidate in the [Future Intelligence Lab](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
 
 My **research interests** lie in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I have been paying attention to connecting urban segregation and inequalities in public transportation planning.
 
@@ -17,7 +17,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
   *Ph. D. Student* in Future Intelligence Lab, Department of Electronic Engineering (Advised by Prof. Yong Li)
 
 - **Tsinghua University**, Beijing, China, *Sep. 2017 - Jul. 2021* <br>
-  *B. S.* in Department of Electronic Engineering (GPA: 3.86/4.00; Rank: 8/254; Graduate with Distinction)
+  *B. S.* in Department of Electronic Engineering (GPA: 3.86/4.00; Rank: 8/254; Graduate with Distinction: 71/3488, Top %2)
   
 - **University of Texas**, Austin, Texas, United States, *Jan. 2020 - May 2020* <br>
   *Exchange Student* in [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/)
@@ -37,7 +37,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 **[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!  
 **[Jun. 2024]** [Our survey](https://dl.acm.org/doi/abs/10.1145/3746449) on world model is accepted by _ACM Computing Survey_.  
 **[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.13777) on phtysics-informed AI for complex urban systems is released.  
-**[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.06366) on AI agentbehavioral science is released.  
+**[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.06366) on AI agent behavioral science is released.  
 **[Apr. 2025]** [A survey](https://arxiv.org/abs/2504.09848) on LLM-powered spatial intelligence is released.  
 **[Mar. 2025]** [One paper](https://arxiv.org/abs/2409.16601) on the impcat of food delivery services on healthy food choices is accepted by _ICWSM 2025_.  
 **[Jan. 2025]** [One paper](https://dl.acm.org/doi/10.1145/3696410.3714536) on perceiving urban inequality with vision language model is accepted by _The Web Conference 2025_.  
