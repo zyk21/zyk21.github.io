@@ -17,7 +17,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
   *Ph. D. Student* in Future Intelligence Lab, Department of Electronic Engineering (Advised by Prof. Yong Li)
 
 - **Tsinghua University**, Beijing, China, *Sep. 2017 - Jul. 2021* <br>
-  *B. S.* in Department of Electronic Engineering (GPA: 3.86/4.00; Rank: 8/254; Graduate with Distinction: 71/3488, Top %2)
+  *B. S.* in Department of Electronic Engineering (GPA: 3.86/4.00; Rank: 8/254; Graduate with Distinction: 71/3488, Top 2%)
   
 - **University of Texas**, Austin, Texas, United States, *Jan. 2020 - May 2020* <br>
   *Exchange Student* in [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/)
