@@ -17,8 +17,11 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
   *Ph. D. Student* in Future Intelligence Lab, Department of Electronic Engineering (Advised by Prof. Yong Li)
 
 - **Tsinghua University**, Beijing, China, *Sep. 2017 - Jul. 2021* <br>
-  *B. S.* in Department of Electronic Engineering (GPA: 3.86/4.00; Rank: 8/254; Graduate with Distinction: 71/3488, Top 2%)
-  
+  *B. S.* in Department of Electronic Engineering (GPA: 3.86/4.00; Rank: 8/254; **Graduate with Distinction**: 71/3488, Top 2%)
+
+- **Tsinghua University**, Beijing, China, *Sep. 2018 - Jul. 2021* <br>
+  *Minor* in Department of Statistics and Data Science
+ 
 - **University of Texas**, Austin, Texas, United States, *Jan. 2020 - May 2020* <br>
   *Exchange Student* in [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/)
 
@@ -35,7 +38,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 
 # News
 **[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!  
-**[Jun. 2024]** [Our survey](https://dl.acm.org/doi/abs/10.1145/3746449) on world model is accepted by _ACM Computing Survey_.  
+**[Jun. 2025]** [Our survey](https://dl.acm.org/doi/abs/10.1145/3746449) on world model is accepted by _ACM Computing Survey_.  
 **[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.13777) on phtysics-informed AI for complex urban systems is released.  
 **[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.06366) on AI agent behavioral science is released.  
 **[Apr. 2025]** [A survey](https://arxiv.org/abs/2504.09848) on LLM-powered spatial intelligence is released.  
