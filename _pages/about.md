@@ -52,6 +52,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
  
 # Selected Honors and Awards
 
+- **China National Graduate Student Scholarship**, 2025 <br>
 - **Tsinghua Comprehensive Excellence Award**, 2024 <br>
 - **Tsinghua Outstanding Graduate (Top 2%)**, 2021 <br>
 - **Beijing Outstanding Graduate**, 2021 <br>
