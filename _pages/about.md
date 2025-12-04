@@ -38,9 +38,9 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 
 # News
 **[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!  
+**[Dec. 2025]** [Our survey](https://doi.org/10.1016/j.inffus.2025.104012) on physics-informed AI for complex urban systems is published in _Information Fusion_.  
 **[Oct. 2025]** [Our survey](https://www.cell.com/patterns/fulltext/S2666-3899(25)00218-1) on large reasoning model is published in _Patterns_.  
 **[Jun. 2025]** [Our survey](https://dl.acm.org/doi/abs/10.1145/3746449) on world model is accepted by _ACM Computing Survey_.  
-**[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.13777) on physics-informed AI for complex urban systems is released.  
 **[Jun. 2025]** [A survey](https://arxiv.org/abs/2506.06366) on AI agent behavioral science is released.  
 **[Apr. 2025]** [A survey](https://arxiv.org/abs/2504.09848) on LLM-powered spatial intelligence is released.  
 **[Mar. 2025]** [One paper](https://arxiv.org/abs/2409.16601) on the impcat of food delivery services on healthy food choices is accepted by _ICWSM 2025_.  
