@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth-year PhD candidate in the [Future Intelligence Lab/ Urban Sciences and Computing Center](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
 
-My **research interests** lie in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I have been paying attention to connecting urban segregation and inequalities in public transportation planning.
+My **research interests** lie in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I have been paying attention to achieving sustainable development goals with novel AI techniques.
 
 # Education
 - **Tsinghua University**, Beijing, China, *Sep. 2021 - Present* <br>
@@ -47,8 +47,6 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 **[Jan. 2025]** [One paper](https://dl.acm.org/doi/10.1145/3696410.3714536) on perceiving urban inequality with vision language model is accepted by _The Web Conference 2025_.  
 **[Jan. 2025]** [A review article](https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00213-3) on data-driven sustainable development of complex cities is published in _The Innovation_.  
 **[Jan. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) on urban residents' adaptive behavior to heat is published in _Nature Cities_. A [research briefing](https://www.nature.com/articles/s44284-024-00193-8) is also available.  
-**[Jan. 2025]** [A survey](https://arxiv.org/abs/2501.09686) on large reasoning model is released.  
-**[Nov. 2024]** [A survey](https://arxiv.org/abs/2411.14499) on world model is released.  
 **[Jan. 2024]** [Our paper](https://www.nature.com/articles/s41599-023-02570-5) on revealing mobility inequality with representation learning is published in _Humanities and social sciences communications_.  
  
 # Selected Honors and Awards
