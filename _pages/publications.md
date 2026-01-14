@@ -11,6 +11,10 @@ author_profile: true
 
 Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wnaYAAAAJ&hl=en).
 
+2026
+------
+- Yuanyi You, **Yunke Zhang**, and Yong Li. ***Physics-Aware Multimodal Urban Heat Mapping with Open Web Imagery and Mobility Data.***  Accepted by The ACM Web Conference (2026).
+
 2025
 ------
 - En Xu, Huandong Wang, **Yunke Zhang**, Sibo Li, Yinzhou Tang, Zhilun Zhou, Yuming Lin, Yuan Yuan, Xiaochen Fan, Jingtao Ding, and Yong Li. ***A Survey of Physics-Informed AI for Complex Urban Systems.***  Information Fusion, Volume 129. [Link](https://doi.org/10.1016/j.inffus.2025.104012)
