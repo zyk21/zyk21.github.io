@@ -13,7 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2026
 ------
-- Yuanyi You, **Yunke Zhang**, and Yong Li. ***Physics-Aware Multimodal Urban Heat Mapping with Open Web Imagery and Mobility Data.***  Accepted by The ACM Web Conference (2026).
+- Yuanyi You, **Yunke Zhang**, and Yong Li. ***Physics-Aware Multimodal Urban Heat Mapping with Open Web Imagery and Mobility Data.***  Accepted by The ACM Web Conference (2026). [Code](https://github.com/tsinghua-fib-lab/AESPA)
 
 2025
 ------
