@@ -14,9 +14,9 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 2026
 ------
 - **Yunke Zhang**, Fengli Xu, Emily Talen, Marta C. González, and Yong Li. ***Quantifying racial inequality in transit access across New York City.*** Accepted by PNAS Nexus. [Preprint](https://www.researchsquare.com/article/rs-3485896/v1) [Code](https://github.com/zyk21/TransitIneq)
-- Lin Chen, **Yunke Zhang**, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, Yibo Ma, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, and Yong Li. ***AI Agent Behavioral Science.*** Humanities and Social Sciences Communications (2026). [Link](https://doi.org/10.1057/s41599-026-07316-7)
+- Lin Chen, **Yunke Zhang**, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, Yibo Ma, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, and Yong Li. ***AI agent behavioral science.*** Humanities and Social Sciences Communications (2026). [Link](https://doi.org/10.1057/s41599-026-07316-7)
 - Yuanyi You, **Yunke Zhang**, and Yong Li. ***Physics-Aware Multimodal Urban Heat Mapping with Open Web Imagery and Mobility Data.***  The ACM Web Conference (2026): 8808–8817. [Link](https://dl.acm.org/doi/10.1145/3774904.3793035) [Code](https://github.com/tsinghua-fib-lab/AESPA)
-- En Xu, Huandong Wang, **Yunke Zhang**, Sibo Li, Yinzhou Tang, Zhilun Zhou, Yuming Lin, Yuan Yuan, Xiaochen Fan, Jingtao Ding, and Yong Li. ***A Survey of Physics-Informed AI for Complex Urban Systems.***  Information Fusion, Volume 129. [Link](https://doi.org/10.1016/j.inffus.2025.104012)
+- En Xu, Huandong Wang, **Yunke Zhang**, Sibo Li, Yinzhou Tang, Zhilun Zhou, Yuming Lin, Yuan Yuan, Xiaochen Fan, Jingtao Ding, and Yong Li. ***A survey of physics-informed AI for complex urban systems.***  Information Fusion, Volume 129. [Link](https://doi.org/10.1016/j.inffus.2025.104012)
 
 
 2025
