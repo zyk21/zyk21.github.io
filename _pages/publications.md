@@ -14,6 +14,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 2026
 ------
 - **Yunke Zhang**, Fengli Xu, Emily Talen, Marta C. González, and Yong Li. ***Quantifying racial inequality in transit access across New York City.*** Accepted by PNAS Nexus. [Preprint](https://www.researchsquare.com/article/rs-3485896/v1) [Code](https://github.com/zyk21/TransitIneq)
+- Lin Chen, **Yunke Zhang**, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, Yibo Ma, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, and Yong Li. ***AI Agent Behavioral Science.*** Humanities and Social Sciences Communications (2026). [Link](https://doi.org/10.1057/s41599-026-07316-7)
 - Yuanyi You, **Yunke Zhang**, and Yong Li. ***Physics-Aware Multimodal Urban Heat Mapping with Open Web Imagery and Mobility Data.***  The ACM Web Conference (2026): 8808–8817. [Link](https://dl.acm.org/doi/10.1145/3774904.3793035) [Code](https://github.com/tsinghua-fib-lab/AESPA)
 - En Xu, Huandong Wang, **Yunke Zhang**, Sibo Li, Yinzhou Tang, Zhilun Zhou, Yuming Lin, Yuan Yuan, Xiaochen Fan, Jingtao Ding, and Yong Li. ***A Survey of Physics-Informed AI for Complex Urban Systems.***  Information Fusion, Volume 129. [Link](https://doi.org/10.1016/j.inffus.2025.104012)
 
@@ -49,7 +50,6 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 Preprints
 ------
 - Jingtao Ding, Chang Liu, Yu Zheng, **Yunke Zhang**, Zihan Yu, Ruikun Li, Hongyi Chen, Jinghua Piao, Huandong Wang, Jiazhen Liu, and Yong Li. ***Artificial Intelligence for Complex Network: Potential, Methodology and Application.*** arXiv preprint arXiv:2402.16887. [Link](https://arxiv.org/abs/2402.16887)
-- Lin Chen, **Yunke Zhang**, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, Yibo Ma, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, and Yong Li. ***AI Agent Behavioral Science.*** arXiv preprint arXiv:2506.06366. [Link](https://arxiv.org/abs/2506.06366)
 - Jie Feng, Jinwei Zeng, Qingyue Long, Hongyi Chen, Jie Zhao, Yanxin Xi, Zhilun Zhou, Yuan Yuan, Shengyuan Wang, Qingbin Zeng, Songwei Li, **Yunke Zhang**, Yuming Lin, Tong Li, Jingtao Ding, Chen Gao, Fengli Xu, and Yong Li. ***A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science.***  arXiv preprint arXiv:2504.09848. [Link](https://arxiv.org/abs/2504.09848)
 - Qianyue Hao, Lin Chen, Xiaoqian Qi, Yuan Yuan, Zefang Zong, Hongyi Chen, Keyu Zhao, Shengyuan Wang, **Yunke Zhang**, Jian Yuan, and Yong Li. ***Reinforcement Learning in the Era of Large Language Models: Challenges and Opportunities.*** ResearchGate preprint. [Link](https://doi.org/10.13140/RG.2.2.19071.06561)
 - Tong Xia, Jiankun Zhang, Ruiwen You, Ao Xu, Linghao Zhang, Tengyao Tu, Jingzhi Wang, Jinghua Piao, **Yunke Zhang**, Fengli Xu, and Yong Li. ***AI Urban Scientist: Multi-Agent Collaborative Automation for Urban Research*** arXiv preprint arXiv:2512.07849. [Link](https://arxiv.org/abs/2512.07849)
