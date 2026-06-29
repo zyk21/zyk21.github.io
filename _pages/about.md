@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD candidate in the [Future Intelligence Lab/ Urban Sciences and Computing Center](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
+I received my PhD degree in the [Future Intelligence Lab/ Urban Sciences and Computing Center](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
 
 My **research interests** lie in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I have been paying attention to achieving sustainable development goals with novel AI techniques.
 
 # Education
-- **Tsinghua University**, Beijing, China, *Sep. 2021 - Present* <br>
+- **Tsinghua University**, Beijing, China, *Sep. 2021 - Jun. 2026* <br>
   *Ph. D. Student* in Future Intelligence Lab, Department of Electronic Engineering (Advised by Prof. Yong Li)
 
 - **Tsinghua University**, Beijing, China, *Sep. 2017 - Jul. 2021* <br>
@@ -38,6 +38,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 
 # News
 **[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!  
+**[Jan. 2026]** Our review article on generative AI in urban science is accepted by _Nature Cities_.  
 **[Jan. 2026]** [Our paper](https://doi.org/10.1093/pnasnexus/pgag025) on transit accessibility inequality is accepted by _PNAS Nexus_.  
 **[Jan. 2026]** [Our paper](https://dl.acm.org/doi/10.1145/3774904.3793035) on urban heat perception with open imagery is accepted by _The Web Conference 2026_.  
 **[Dec. 2025]** [Our survey](https://doi.org/10.1016/j.inffus.2025.104012) on physics-informed AI for complex urban systems is published in _Information Fusion_.  
