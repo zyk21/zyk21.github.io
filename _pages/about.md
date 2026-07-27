@@ -38,7 +38,7 @@ My **research interests** lie in *Urban Science, Computational Social Science, a
 
 # News
 **[Mar. 2025]** [Our paper](https://www.nature.com/articles/s44284-024-00172-z) is selected as **cover article** in the [latest issue](https://www.nature.com/natcities/volumes/2/issues/2) of _Nature Cities_!  
-**[Jan. 2026]** Our review article on generative AI in urban science is accepted by _Nature Cities_.  
+**[Jan. 2026]** [Our review article](https://doi.org/10.1038/s44284-026-00492-2) on generative AI in urban science is accepted by _Nature Cities_.  
 **[Jan. 2026]** [Our paper](https://doi.org/10.1093/pnasnexus/pgag025) on transit accessibility inequality is accepted by _PNAS Nexus_.  
 **[Jan. 2026]** [Our paper](https://dl.acm.org/doi/10.1145/3774904.3793035) on urban heat perception with open imagery is accepted by _The Web Conference 2026_.  
 **[Dec. 2025]** [Our survey](https://doi.org/10.1016/j.inffus.2025.104012) on physics-informed AI for complex urban systems is published in _Information Fusion_.  
