@@ -13,7 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2026
 ------
-- **Yunke Zhang**, Fengli Xu, Qi R. Wang, Esteban Moro, Yang Yue, Huandong Wang, Bin Chen, Yu Liu, Dongping Fang, Peng Gong, Luís M. A. Bettencourt, Michael Batty, and Yong Li.  ***Generative AI in urban science and practice.*** To appear in Nature Cities (2026). [Link](https://doi/org/10.1038/s44284-026-00492-2)
+- **Yunke Zhang**, Fengli Xu, Qi R. Wang, Esteban Moro, Yang Yue, Huandong Wang, Bin Chen, Yu Liu, Dongping Fang, Peng Gong, Luís M. A. Bettencourt, Michael Batty, and Yong Li.  ***Generative AI in urban science and practice.*** Nature Cities (2026). [Link](https://www.nature.com/articles/s44284-026-00492-2)
 - **Yunke Zhang**, Fengli Xu, Emily Talen, Marta C. González, and Yong Li. ***Quantifying racial inequality in transit access across New York City.*** PNAS Nexus, Volume 5, Issue 5 (2026). [Link](https://doi.org/10.1093/pnasnexus/pgag025) [Code](https://github.com/zyk21/TransitIneq)
 - Lin Chen, **Yunke Zhang**, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, Yibo Ma, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, and Yong Li. ***AI agent behavioral science.*** Humanities and Social Sciences Communications (2026). [Link](https://doi.org/10.1057/s41599-026-07316-7)
 - Yuanyi You, **Yunke Zhang**, and Yong Li. ***Physics-Aware Multimodal Urban Heat Mapping with Open Web Imagery and Mobility Data.***  The ACM Web Conference (2026): 8808–8817. [Link](https://dl.acm.org/doi/10.1145/3774904.3793035) [Code](https://github.com/tsinghua-fib-lab/AESPA)
