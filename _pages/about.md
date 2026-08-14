@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD degree in the [Future Intelligence Lab/ Urban Sciences and Computing Center](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021.
-
-My **research interests** lie in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. Recently I have been paying attention to achieving sustainable development goals with novel AI techniques.
+I received my PhD degree in the [Future Intelligence Lab/ Urban Sciences and Computing Center](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021. My **research interests** lied in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. 
 
 # Education
 - **Tsinghua University**, Beijing, China, *Sep. 2021 - Jun. 2026* <br>
