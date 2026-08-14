@@ -13,6 +13,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=HQ_wn
 
 2026
 ------
+- Qianyue Hao, Lin Chen, Xiaoqian Qi, Yuan Yuan, Zefang Zong, Hongyi Chen, Keyu Zhao, Shengyuan Wang, **Yunke Zhang**, Jian Yuan, and Yong Li. ***Reinforcement Learning in the Era of Large Language Models: Challenges and Opportunities.*** ACM Computing Surveys (2026). [Link](https://dl.acm.org/doi/10.1145/3837057)
 - **Yunke Zhang**, Fengli Xu, Qi R. Wang, Esteban Moro, Yang Yue, Huandong Wang, Bin Chen, Yu Liu, Dongping Fang, Peng Gong, Luís M. A. Bettencourt, Michael Batty, and Yong Li.  ***Generative AI in urban science and practice.*** Nature Cities (2026). [Link](https://www.nature.com/articles/s44284-026-00492-2)
 - **Yunke Zhang**, Fengli Xu, Emily Talen, Marta C. González, and Yong Li. ***Quantifying racial inequality in transit access across New York City.*** PNAS Nexus, Volume 5, Issue 5 (2026). [Link](https://doi.org/10.1093/pnasnexus/pgag025) [Code](https://github.com/zyk21/TransitIneq)
 - Lin Chen, **Yunke Zhang**, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, Yibo Ma, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, and Yong Li. ***AI agent behavioral science.*** Humanities and Social Sciences Communications (2026). [Link](https://doi.org/10.1057/s41599-026-07316-7)
@@ -52,7 +53,5 @@ Preprints
 ------
 - Jingtao Ding, Chang Liu, Yu Zheng, **Yunke Zhang**, Zihan Yu, Ruikun Li, Hongyi Chen, Jinghua Piao, Huandong Wang, Jiazhen Liu, and Yong Li. ***Artificial Intelligence for Complex Network: Potential, Methodology and Application.*** arXiv preprint arXiv:2402.16887. [Link](https://arxiv.org/abs/2402.16887)
 - Jie Feng, Jinwei Zeng, Qingyue Long, Hongyi Chen, Jie Zhao, Yanxin Xi, Zhilun Zhou, Yuan Yuan, Shengyuan Wang, Qingbin Zeng, Songwei Li, **Yunke Zhang**, Yuming Lin, Tong Li, Jingtao Ding, Chen Gao, Fengli Xu, and Yong Li. ***A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science.***  arXiv preprint arXiv:2504.09848. [Link](https://arxiv.org/abs/2504.09848)
-- Qianyue Hao, Lin Chen, Xiaoqian Qi, Yuan Yuan, Zefang Zong, Hongyi Chen, Keyu Zhao, Shengyuan Wang, **Yunke Zhang**, Jian Yuan, and Yong Li. ***Reinforcement Learning in the Era of Large Language Models: Challenges and Opportunities.*** ResearchGate preprint. [Link](https://doi.org/10.13140/RG.2.2.19071.06561)
 - Tong Xia, Jiankun Zhang, Ruiwen You, Ao Xu, Linghao Zhang, Tengyao Tu, Jingzhi Wang, Jinghua Piao, **Yunke Zhang**, Fengli Xu, and Yong Li. ***AI Urban Scientist: Multi-Agent Collaborative Automation for Urban Research*** arXiv preprint arXiv:2512.07849. [Link](https://arxiv.org/abs/2512.07849)
-
-
+- **Yunke Zhang**, Ruolong Ma, Xin Zhang, Yu Shang, Fengli Xu, Tong Xia, and Yong Li. ***Perceiving exposure segregation with open urban imagery.*** arXiv preprint arXiv:2606.21858. [Link](https://arxiv.org/abs/2606.21858)
