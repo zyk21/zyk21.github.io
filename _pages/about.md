@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD degree in the [Future Intelligence Lab/ Urban Sciences and Computing Center](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021. My **research interests** lied in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. 
+I received my PhD degree in 2026 in the [Future Intelligence Lab/ Urban Sciences and Computing Center](http://fi.ee.tsinghua.edu.cn/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University in 2021. My **research interests** lied in *Urban Science, Computational Social Science, and Urban Sustainability*, aiming to address long-standing problems in cities with novel analytical tools based on burgeoning human behavior data in the urban space. 
 
 # Education
 - **Tsinghua University**, Beijing, China, *Sep. 2021 - Jun. 2026* <br>
@@ -18,13 +18,13 @@ I received my PhD degree in the [Future Intelligence Lab/ Urban Sciences and Com
   *B. S.* in Department of Electronic Engineering (GPA: 3.86/4.00; Rank: 8/254; **Graduate with Distinction**: 71/3488, Top 2%)
 
 - **Tsinghua University**, Beijing, China, *Sep. 2018 - Jul. 2021* <br>
-  *Minor* in Department of Statistics and Data Science
+  *Minor* in [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/)
  
 - **University of Texas**, Austin, Texas, United States, *Jan. 2020 - May 2020* <br>
   *Exchange Student* in [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/)
 
 <!-- # Research Experience
-- **Tsinghua University**, Beijing, China, *Mar. 2019 - Present* <br>
+- **Tsinghua University**, Beijing, China, *Mar. 2019 - Jun. 2026* <br>
   *Ph. D. Student & Research Assistant*, with Prof. Yong Li in Future Intelligence Lab.
 
 - **Yunqi Academy of of Engineering**, Hangzhou, China, *Jul. 2022 - Sep. 2022* <br>
