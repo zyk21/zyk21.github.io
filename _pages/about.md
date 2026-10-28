@@ -59,6 +59,6 @@ I received my PhD degree in the [Future Intelligence Lab/ Urban Sciences and Com
 # Professional Activities
 
 - Program Committee Member for [FairComp@Ubicomp 2023](https://faircomp-workshop.github.io/2023/committee.html).
-- Journal Reviewer for PLOS complex systems, EPJ Data Science, Machine Learning, Scientific Reports.
+- Journal Reviewer for Nature Computational Science, Nature Communications, PLOS complex systems, EPJ Data Science, Machine Learning, Scientific Reports.
 - Conference Reviewer for TheWebConf, KDD, ICWSM, CIKM, IC2S2, UbiComp.
 - Student Travel Award for TheWebConf 2025.
